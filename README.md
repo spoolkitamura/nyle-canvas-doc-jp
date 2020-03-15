@@ -1,4 +1,4 @@
 # nyle-canvas-doc-jp
 
-### [Wiki](https://github.com/spoolkitamura/nyle-canvas-doc-jp/wiki) をご覧ください。
+### [https://spoolkitamura.github.io/nyle-canvas/](https://spoolkitamura.github.io/nyle-canvas/) をご覧ください。
 
